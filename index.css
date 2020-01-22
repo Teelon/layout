@@ -25,9 +25,10 @@ body{
 .card{ 
   text-align: center;
   height: auto;
-  width: auto;
+  width: 18rem;
   margin-right: 10px;
 }
 .form-group{
   margin-bottom: 10px;
+  margin-left: 5px;
 }
