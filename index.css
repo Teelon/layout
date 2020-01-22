@@ -1,0 +1,33 @@
+body{
+  margin: 0 15%;
+}
+.container {
+  background-color: red;
+  height: 500px;
+  
+}
+.scores{
+  background-color:transparent;
+  height: 300px;
+  padding-left: 15%;
+  overflow-x: scroll;
+  position: absolute;
+  left:0;
+  right: 0;
+  
+}
+.scorescontainer{
+  display: flex;
+  position: absolute;
+  background-color:transparent;
+  padding: 10px;
+}
+.indiScores{ 
+  text-align: center;
+  height: auto;
+  width: 200px;
+  background-color: darkgrey;
+  margin-right: 10px;
+  padding: 10px 10px ;
+
+}
