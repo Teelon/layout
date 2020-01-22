@@ -22,12 +22,12 @@ body{
   background-color:transparent;
   padding: 10px;
 }
-.indiScores{ 
+.card{ 
   text-align: center;
   height: auto;
-  width: 200px;
-  background-color: darkgrey;
+  width: 209px;
   margin-right: 10px;
-  padding: 10px 10px ;
-
+}
+.form-group{
+  margin-bottom: 10px;
 }
